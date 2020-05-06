@@ -5,8 +5,8 @@ package array_string.doublePointer;
  **/
 public class MaxSuccessiveOne {
     public static void main(String[] args) {
-        int[] arr = {0,0};
-        System.out.println(max(arr));
+        int[] arr = {0,0,1,1};
+        System.out.println(max_2(arr));
     }
     
     private static int max(int[] arr){
@@ -25,5 +25,22 @@ public class MaxSuccessiveOne {
             }
         }
         return max;
+    }
+
+    /**
+     * 新解法
+     */
+    private static int max_2(int[] nums){
+        int res = 0;
+        int tmp = 0;
+        for (int num : nums) {
+            if (num == 1)
+                tmp++;
+            else {
+                res = Math.max(res, tmp);
+                tmp = 0;
+            }
+        }
+        return Math.max(res,tmp);
     }
 }
