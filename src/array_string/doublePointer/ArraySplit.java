@@ -10,9 +10,7 @@ import java.util.Arrays;
 public class ArraySplit {
     public static void main(String[] args) {
         int[] arr = {1,4,3,2};
-        //System.out.println(test(arr));
-        quickSort(arr,0,arr.length-1);
-        System.out.println(Arrays.toString(arr));
+        baseSort(arr);
     }
     //先排序 后分组
     private static int test(int[] arr){
@@ -24,6 +22,37 @@ public class ArraySplit {
         return sum;
     }
 
+    /**
+     * 官方题解 没看懂 用到了桶排序 和 奇偶性
+     * @param nums
+     * @return
+     */
+    public static int arrayPairSum(int[] nums) {
+        int[] arr = new int[20001];
+        int lim = 10000;
+        for (int num: nums)
+            arr[num + lim]++;
+        int d = 0, sum = 0;
+        for (int i = -10000; i <= 10000; i++) {
+            sum += (arr[i + lim] + 1 - d) / 2 * i;
+            d = (2 + arr[i + lim] - d) % 2;
+        }
+        return sum;
+    }
+
+    /**
+     * 复习桶排序
+     */
+    private static void baseSort(int[] arr){
+        int[] base = new int[100];
+        for (int i = 0; i < arr.length; i++) {
+            base[arr[i]] = 1;
+        }
+        for (int i = 0; i < base.length; i++) {
+            if(base[i]==1)
+                System.out.print(" "+i);
+        }
+    }
     /**
      * 复习快排
      */
