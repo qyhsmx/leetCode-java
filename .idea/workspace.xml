@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82adaaa5-4f4d-4937-bd9f-34635a4ee7b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/array_string/summary/DelDuplicatedNumInOrderArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_string/summary/MoveZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/InsertSort.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bVzgMhRc20H2ebxAcAcLUuAmJ1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="array_string.summary" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MoveZero">
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.InsertSort" />
+      <module name="leetCode-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array_string.summary.MoveZero" />
+      <module name="leetCode-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array_string.summary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseWordsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array_string.summary.ReverseWordsII" />
+      <module name="leetCode-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array_string.summary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseWordsIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array_string.summary.ReverseWordsIII" />
+      <module name="leetCode-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array_string.summary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YanghuiTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array_string.summary.YanghuiTriangle" />
+      <module name="leetCode-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array_string.summary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.YanghuiTriangle" />
+      <item itemvalue="Application.ReverseWordsII" />
+      <item itemvalue="Application.ReverseWordsIII" />
+      <item itemvalue="Application.InsertSort" />
+      <item itemvalue="Application.MoveZero" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MoveZero" />
+        <item itemvalue="Application.InsertSort" />
+        <item itemvalue="Application.ReverseWordsIII" />
+        <item itemvalue="Application.ReverseWordsII" />
+        <item itemvalue="Application.YanghuiTriangle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82adaaa5-4f4d-4937-bd9f-34635a4ee7b5" name="Default Changelist" comment="" />
+      <created>1588732158924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588732158924</updated>
+      <workItem from="1588732162265" duration="34147000" />
+    </task>
+    <task id="LOCAL-00001" summary="sliding window resolve MinLenSubArray">
+      <created>1588756917150</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588756917150</updated>
+    </task>
+    <task id="LOCAL-00002" summary="YanghuiTriangle">
+      <created>1588833020413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588833020413</updated>
+    </task>
+    <task id="LOCAL-00003" summary="words reverse">
+      <created>1588916840805</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588916840805</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sliding window resolve MinLenSubArray" />
+    <MESSAGE value="YanghuiTriangle" />
+    <MESSAGE value="words reverse" />
+    <option name="LAST_COMMIT_MESSAGE" value="words reverse" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="536" y="85" key="CommitChangelistDialog2" timestamp="1588916839190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="536" y="85" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588916839190" />
+    <state x="536" y="86" key="CommitChangelistDialog2/0.0.1920.1049@0.0.1920.1049" timestamp="1588833018701" />
+    <state width="1877" height="188" key="GridCell.Tab.0.bottom" timestamp="1588932647264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="188" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588932647264" />
+    <state width="1877" height="191" key="GridCell.Tab.0.bottom/0.0.1920.1049@0.0.1920.1049" timestamp="1588832767656" />
+    <state width="1877" height="188" key="GridCell.Tab.0.center" timestamp="1588932647264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="188" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588932647264" />
+    <state width="1877" height="191" key="GridCell.Tab.0.center/0.0.1920.1049@0.0.1920.1049" timestamp="1588832767656" />
+    <state width="1877" height="188" key="GridCell.Tab.0.left" timestamp="1588932647264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="188" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588932647264" />
+    <state width="1877" height="191" key="GridCell.Tab.0.left/0.0.1920.1049@0.0.1920.1049" timestamp="1588832767656" />
+    <state width="1877" height="188" key="GridCell.Tab.0.right" timestamp="1588932647264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="188" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588932647264" />
+    <state width="1877" height="191" key="GridCell.Tab.0.right/0.0.1920.1049@0.0.1920.1049" timestamp="1588832767656" />
+    <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1588932647264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="188" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588932647264" />
+    <state width="1877" height="191" key="GridCell.Tab.1.bottom/0.0.1920.1049@0.0.1920.1049" timestamp="1588832767657" />
+    <state width="1877" height="188" key="GridCell.Tab.1.center" timestamp="1588932647264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="188" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588932647264" />
+    <state width="1877" height="191" key="GridCell.Tab.1.center/0.0.1920.1049@0.0.1920.1049" timestamp="1588832767657" />
+    <state width="1877" height="188" key="GridCell.Tab.1.left" timestamp="1588932647264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="188" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588932647264" />
+    <state width="1877" height="191" key="GridCell.Tab.1.left/0.0.1920.1049@0.0.1920.1049" timestamp="1588832767657" />
+    <state width="1877" height="188" key="GridCell.Tab.1.right" timestamp="1588932647264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="188" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588932647264" />
+    <state width="1877" height="191" key="GridCell.Tab.1.right/0.0.1920.1049@0.0.1920.1049" timestamp="1588832767657" />
+    <state x="487" y="256" key="IDE.errors.dialog" timestamp="1588917078841">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="487" y="256" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588917078841" />
+    <state x="487" y="258" key="IDE.errors.dialog/0.0.1920.1049@0.0.1920.1049" timestamp="1588733153078" />
+    <state x="453" y="168" key="SettingsEditor" timestamp="1588732627928">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="453" y="168" key="SettingsEditor/0.0.1920.1049@0.0.1920.1049" timestamp="1588732627928" />
+    <state x="681" y="261" width="540" height="524" key="StructurePopup" timestamp="1588907827556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="261" width="540" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1588907827556" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1588916841843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588916841843" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1049@0.0.1920.1049" timestamp="1588833021990" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1588756136427">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1049@0.0.1920.1049" timestamp="1588756136427" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/InsertSort.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
